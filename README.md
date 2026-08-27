@@ -3,7 +3,7 @@
 # Hi, I'm André Figueiredo
 ### Data & AI Engineer
 
-I build governed data platforms — lakehouses, **dbt models**, production pipelines — and the AI agents that run on top of them. Recent work includes a text-to-SQL + RAG sales-intelligence agent combining PostgreSQL and Qdrant vector search.
+I build governed data platforms — lakehouses, production pipelines — and the AI agents that run on top of them. Recent work includes a text-to-SQL + RAG sales-intelligence agent combining PostgreSQL and Qdrant vector search.
 
 </div>
 
@@ -49,12 +49,9 @@ _Synced automatically from my [pinned repositories](https://github.com/AndreNona
 **Languages & Databases**
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB)
+![PySpark](https://img.shields.io/badge/PySpark-0F172A?style=flat-square&logo=apachespark&logoColor=E25A1C)
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logoColor=FBBF24)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
-
-## 📊 GitHub Activity
-
-![André's contribution graph](https://ghchart.rshah.org/A78BFA/AndreNonatoFigueiredo)
 
 ## 📫 Contact
 
