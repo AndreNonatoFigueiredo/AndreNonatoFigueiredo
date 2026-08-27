@@ -46,12 +46,11 @@ _Synced automatically from my [pinned repositories](https://github.com/AndreNona
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=009688)
 ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Languages & Databases**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB)
 ![PySpark](https://img.shields.io/badge/PySpark-0F172A?style=flat-square&logo=apachespark&logoColor=E25A1C)
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logoColor=FBBF24)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 ## 📫 Contact
 
