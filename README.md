@@ -56,8 +56,6 @@ _Synced automatically from my [pinned repositories](https://github.com/AndreNona
 
 ![André's contribution graph](https://ghchart.rshah.org/A78BFA/AndreNonatoFigueiredo)
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreNonatoFigueiredo&show_icons=true&hide_border=true&bg_color=0F172A&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&count_private=true)
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andrensfigueiredo/)
