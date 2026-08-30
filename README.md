@@ -20,6 +20,7 @@ _Synced automatically from my [pinned repositories](https://github.com/AndreNona
 | Project | Description |
 |---|---|
 | [**workshop-agent-harness**](https://github.com/AndreNonatoFigueiredo/workshop-agent-harness) | Agente Analítico de Vendas — projeto pessoal baseado no workshop de agent harness `Python` |
+| [**eCommerceDataAnalysisMCP**](https://github.com/AndreNonatoFigueiredo/eCommerceDataAnalysisMCP) | _No description yet._ `TypeScript` |
 <!-- FEATURED-PROJECTS:END -->
 
 ## 🧰 Stack
